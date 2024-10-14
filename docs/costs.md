@@ -49,7 +49,7 @@ We have been unable to find good data on the cost per day of mental health inpat
 
 ### Mental health care contact
 
-[PSSRU Unit costs of social care](https://www.pssru.ac.uk/project-pages/unit-costs/) from 2022-23, adjusted for inflation
+[PSSRU Unit costs of social care](https://www.pssru.ac.uk/unitcostsreport/) from 2022-23, adjusted for inflation
 
 ## IAPT (talking therapies)
 
@@ -57,7 +57,7 @@ Talking therapies activity is estimated using the [IAPT commissioning dataset](h
 
 ### IAPT care contact
 
-[PSSRU Unit costs of social care](https://www.pssru.ac.uk/project-pages/unit-costs/) from 2022-23, adjusted for inflation
+[PSSRU Unit costs of social care](https://www.pssru.ac.uk/unitcostsreport/) from 2022-23, adjusted for inflation
 
 ## Primary care
 
@@ -65,11 +65,11 @@ Primary care acitvity is estimated from patient-level data extracted from GP pat
 
 ### Primary care telephone/video appointment
 
-[PSSRU Unit costs of social care](https://www.pssru.ac.uk/project-pages/unit-costs/) from 2022-23, adjusted for inflation
+[PSSRU Unit costs of social care](https://www.pssru.ac.uk/unitcostsreport/) from 2022-23, adjusted for inflation
 
 ### Primary care face to face appointment
 
-[PSSRU Unit costs of social care](https://www.pssru.ac.uk/project-pages/unit-costs/) from 2022-23, adjusted for inflation
+[PSSRU Unit costs of social care](https://www.pssru.ac.uk/unitcostsreport/) from 2022-23, adjusted for inflation
 
 ### Primary care written appointment
 
@@ -89,21 +89,15 @@ Adult social care activity is estimated using [adult social care client level da
 
 ### Adult social care review
 
-[2021-22 PLICS data](https://digital.nhs.uk/data-and-information/publications/statistical/patient-level-activity-and-costing/2021-22), adjusted for inflation.
-
-Assumed 1 hour of social worker time as a proxy cost.
+Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
 
 ### Adult social care request
 
-[2021-22 PLICS data](https://digital.nhs.uk/data-and-information/publications/statistical/patient-level-activity-and-costing/2021-22), adjusted for inflation.
-
-Assumed 1 hour of social worker time as a proxy cost.
+Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
 
 ### Adult social care assessment
 
-[2021-22 PLICS data](https://digital.nhs.uk/data-and-information/publications/statistical/patient-level-activity-and-costing/2021-22), adjusted for inflation.
-
-Assumed 1 hour of social worker time as a proxy cost.
+Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
 
 ### Adult social care carer support
 
@@ -123,7 +117,7 @@ We used the total number of clients receiving long-term care (table 41) and esti
 
 ### Adult social care long-term support: nursing home
 
-[NHSE adult social care activity and finance report 2022-23](https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-activity-and-finance-report/2022-23), adjusted for inflation.
+[NHSE adult social care activity and finance report 2022-23](https://digital.nhs.uk/data-and-information/publications/statistical/adult-social-care-activity-and-finance-report/2022-23), adjusted for inflation. Additional per diem nursing costs sourced from [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
 
 ### Adult social care short-term support
 
