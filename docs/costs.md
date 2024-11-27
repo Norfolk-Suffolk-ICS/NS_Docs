@@ -89,7 +89,7 @@ Adult social care activity is estimated using [adult social care client level da
 
 ### Adult social care review
 
-Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
+Assumed 1.3 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/). Time estimates are based on an internal survey of social care staff.
 
 ### Adult social care request
 
@@ -97,7 +97,7 @@ Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Healt
 
 ### Adult social care assessment
 
-Assumed 1 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/)
+Assumed 2.3 hour of social worker time as a proxy cost. [PSSRU Unit Costs of Health and Social Care 2023 manual.](https://www.pssru.ac.uk/unitcostsreport/). Time estimates are based on an internal survey of social care staff.
 
 ### Adult social care carer support
 
