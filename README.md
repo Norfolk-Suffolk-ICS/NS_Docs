@@ -1,8 +1,8 @@
-# SNEEdocs
+# Norfolk and Suffolk Docs
 
-This repository contains documentation for health intelligence and population health management in the Suffolk and North East Essex (SNEE) Integrated Care System. The documentation is published as a github pages site, which can be accessed [here](https://Norfolk-Suffolk-ICS.github.io/SNEEdocs/).
+This repository contains documentation for health intelligence and population health management in the Norfolk and Suffolk (NS) Integrated Care System. The documentation is published as a github pages site, which can be accessed [here](https://Norfolk-Suffolk-ICS.github.io/NS_docs/).
 
 ## Contributing
 
-Please [raise an issue](https://github.com/SNEE-ICS/SNEEdocs/issues) on this repository to suggest changes to the documentation or underlying definitions.
+Please [raise an issue](https://github.com/Norfolk-Suffolk-ICS/NSdocs/issues) on this repository to suggest changes to the documentation or underlying definitions.
 

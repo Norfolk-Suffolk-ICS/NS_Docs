@@ -1,4 +1,4 @@
-![logo](assets/SNEE_IF_logo.png)
+![logo](assets/NS_IF_logo.png)
 
 This site contains documentation about health intelligence and population health management in the Suffolk and North East Essex (SNEE) Integrated Care System. Currently, we document the following:
 

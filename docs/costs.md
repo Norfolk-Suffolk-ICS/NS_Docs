@@ -1,4 +1,4 @@
-![logo](assets/SNEE_IF_logo.png)
+![logo](assets/NS_IF_logo.png)
 
 # Activity types and cost
 

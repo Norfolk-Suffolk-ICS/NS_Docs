@@ -1,4 +1,4 @@
-![logo](assets/SNEE_IF_logo.png)
+![logo](assets/NS_IF_logo.png)
 
 # Long-term conditions and complexity
 
