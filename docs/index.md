@@ -8,4 +8,4 @@ This site contains documentation about health intelligence and population health
 
 ## Contributing
 
-The code for this site is available on [Github](https://github.com/Norfolk-Suffolk-ICS/NS_docs), where users can also find guidance for contributing
+The code for this site is available on [Github](https://github.com/Norfolk-Suffolk-ICS/NS_Docs), where users can also find guidance for contributing
