@@ -4,5 +4,5 @@ This repository contains documentation for health intelligence and population he
 
 ## Contributing
 
-Please [raise an issue](https://github.com/Norfolk-Suffolk-ICS/NSdocs/issues) on this repository to suggest changes to the documentation or underlying definitions.
+Please [raise an issue](https://github.com/Norfolk-Suffolk-ICS/NS_Docs/issues) on this repository to suggest changes to the documentation or underlying definitions.
 
